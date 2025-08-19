@@ -3,7 +3,7 @@
 This repository is a collection of Jupyter notebooks demonstrating the implementation of different Machine Learning algorithms using Python.  
 Each notebook focuses on a specific ML algorithm.
 
-## 📌 Algorithms Covered
+## Algorithms Covered
 - Decision Trees
 - Random Forests
 - K-Means Clustering
@@ -11,6 +11,6 @@ Each notebook focuses on a specific ML algorithm.
 - Simple Neural Network
 - Graph-based Learning (KNN on Wine Dataset)
 
-## 🛠️ Requirements
+## Requirements
 ```bash
 pip install numpy pandas matplotlib scikit-learn networkx
